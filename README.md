@@ -1,1 +1,3 @@
 # Block07
+
+I want my combination to be 10 32 78. In order to create this I will create a variable to store the initial statement "You have received this message because you have been chosen to open an important vault. Here is the secret combination:". After this I will create three variables that each store the values designating the three numbers for the safe combination using \*, +, and / in that sequence. Then at the end I will create and alert that will pop up on the screen as the browser page is loaded saying the initial statement, followed by the three numbers constituting the combination for the safe. After this I will use a console.log() in order to display the same message as the alert, but on the page itself.
